@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Monto a Solcitar",
+      "type": "text",
+      "id": "Field_0s6dqls"
+    },
+    {
+      "label": "Monto",
+      "type": "number",
+      "id": "Field_08n50hy",
+      "key": "monto"
+    }
+  ],
+  "type": "default",
+  "id": "Form_2"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "Solicitud de Credito ",
+      "type": "text",
+      "id": "Field_055n7j9"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_0uakmfd",
+      "key": "nombre"
+    },
+    {
+      "label": "Apellido",
+      "type": "textfield",
+      "id": "Field_0qs1ohe",
+      "key": "apellido"
+    },
+    {
+      "values": [
+        {
+          "value": "independiente",
+          "label": "Independiente"
+        },
+        {
+          "value": "planilla",
+          "label": "Planilla"
+        }
+      ],
+      "label": "Empleado",
+      "type": "select",
+      "id": "Field_1mz6i92",
+      "key": "empleado"
+    },
+    {
+      "label": "Ingresos Mensuales",
+      "type": "number",
+      "id": "Field_1b5w42h",
+      "key": "ingresosMensuales"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1"
+}
